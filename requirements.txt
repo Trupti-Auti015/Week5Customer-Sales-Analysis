@@ -1,0 +1,10 @@
+
+#Required libraries for Customer analysis Project
+
+-pandas
+-matplotlib
+-jupyternotebook
+
+ 
+ #requirements.txt helps others install all required libraries using:
+ pip install -r requirements.txt
